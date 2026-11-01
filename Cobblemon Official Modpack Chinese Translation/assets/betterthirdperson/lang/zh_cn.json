@@ -1,0 +1,10 @@
+{
+  "text.autoconfig.betterthirdperson.option.skipThirdPersonFrontView": "跳过第三人称正面视角",
+  "text.autoconfig.betterthirdperson.option.aimOnInteract": "交互时瞄准玩家",
+  "text.autoconfig.betterthirdperson.option.freeCameraDuringElytraFlight": "鞘翅飞行时自由视角",
+  "text.autoconfig.betterthirdperson.option.followYaw": "跟随偏航角",
+  "text.autoconfig.betterthirdperson.option.pitchChangeSpeed": "俯仰变化速度",
+  "text.autoconfig.betterthirdperson.option.playerRotationSpeed": "玩家旋转速度",
+  "text.autoconfig.betterthirdperson.option.aimDuration": "瞄准持续时间",
+  "text.autoconfig.betterthirdperson.title": "更好的第三人称 (Better Third Person)"
+}

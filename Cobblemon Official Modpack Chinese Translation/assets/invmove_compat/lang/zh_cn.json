@@ -1,0 +1,22 @@
+{
+  "tooltip.config.invmove.ponder.movement.index": "此菜单为暂停界面，因此此选项可能被覆盖。",
+  "tooltip.config.invmove.ponder.movement.ponder": "此菜单为暂停界面，因此此选项可能被覆盖。",
+  "tooltip.config.invmove.ponder.movement.tag": "此菜单为暂停界面，因此此选项可能被覆盖。",
+  "config.invmove.ponder.movement.tag": "思索分类",
+  "config.invmove.ponder.movement.index": "思索索引",
+  "config.invmove.roughlyenoughitems.backgroundHide.recipe": "配方界面",
+  "config.invmove.emi.movement.recipe": "配方界面",
+  "config.invmove.jei.backgroundHide.recipe": "配方界面",
+  "config.invmove.jei.movement.recipe": "配方界面",
+  "config.invmove.roughlyenoughitems.movement.recipe": "配方界面",
+  "config.invmove.emi.backgroundHide.recipe": "配方界面",
+  "config.invmove.ponder.movement.holdPonderAllowMovement.notAvailable": "§6§o完整的思索支持需要 Create 6.0.7+。\n部分功能（按住思索选项）已禁用。",
+  "key.invmove.module.emi": "EMI",
+  "config.invmove.ponder.movement.ponder": "思索界面",
+  "key.invmove.module.cloth-config": "Cloth Config",
+  "tooltip.config.invmove.ponder.movement.holdPonderAllowMovement": "控制按住物品上的思索键时是否允许移动。",
+  "key.invmove.module.jei": "Just Enough Items",
+  "key.invmove.module.roughlyenoughitems": "Roughly Enough Items",
+  "key.invmove.module.ponder": "思索",
+  "config.invmove.ponder.movement.holdPonderAllowMovement": "按住思索"
+}

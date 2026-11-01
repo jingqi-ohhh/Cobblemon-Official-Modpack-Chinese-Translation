@@ -1,0 +1,21 @@
+{
+  "text.owo.itemGroup.select_hint.color": "灰色",
+  "text.owo.config.button.done": "完成",
+  "text.owo.configure_hot_reload.save": "保存",
+  "text.owo.config.button.reload": "重新加载",
+  "text.owo.config.must_restart": "你进行的一些更改需要重启才能生效",
+  "text.owo.config.button.exit_minecraft": "退出 Minecraft",
+  "text.owo.config.sections_tooltip": "分区",
+  "text.owo.config.sections.text": "分区",
+  "text.owo.configure_hot_reload.choose_file": "选择文件",
+  "text.owo.config.search": "搜索...",
+  "text.owo.config.button.ignore_restart": "稍后重启",
+  "text.owo.config.search.matches": "第 %d 项，共 %d 项",
+  "text.owo.itemGroup.select_hint.text": "按住 Shift 点击可选择多个",
+  "text.owo.config.list.add_entry": "添加条目",
+  "text.owo.configure_hot_reload.reload_from.unset": "取消设置",
+  "text.owo.config.search.no_matches": "无匹配项",
+  "text.owo.configure_hot_reload.title": "配置热重载",
+  "text.owo.config.button.range.edit_with_slider": "用滑块编辑",
+  "text.owo.config.button.range.edit_as_text": "以文本编辑"
+}
